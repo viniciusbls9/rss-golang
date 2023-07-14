@@ -1,2 +1,3 @@
 rss-golang
 .env
+/vendor/
